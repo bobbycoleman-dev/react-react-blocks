@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Header from "./components/Header";
+import Header from "./components/header/Header";
 import Navigation from "./components/Navigation";
 import Main from "./components/Main";
 import SubComponent from "./components/SubContents";
